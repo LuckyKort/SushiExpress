@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3f323038-b4a9-44cd-b1c4-62e65810124d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/about.php" beforeDir="false" afterPath="$PROJECT_DIR$/about.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bd.php" beforeDir="false" afterPath="$PROJECT_DIR$/bd.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cartconfirm.php" beforeDir="false" afterPath="$PROJECT_DIR$/cartconfirm.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/check.php" beforeDir="false" afterPath="$PROJECT_DIR$/check.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/delivery.php" beforeDir="false" afterPath="$PROJECT_DIR$/delivery.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/editprod.php" beforeDir="false" afterPath="$PROJECT_DIR$/editprod.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gb.php" beforeDir="false" afterPath="$PROJECT_DIR$/gb.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/howto.php" beforeDir="false" afterPath="$PROJECT_DIR$/howto.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index2.php" beforeDir="false" afterPath="$PROJECT_DIR$/index2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news.php" beforeDir="false" afterPath="$PROJECT_DIR$/news.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/register.php" beforeDir="false" afterPath="$PROJECT_DIR$/register.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/save_cart.php" beforeDir="false" afterPath="$PROJECT_DIR$/save_cart.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/save_user.php" beforeDir="false" afterPath="$PROJECT_DIR$/save_user.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.php" beforeDir="false" afterPath="$PROJECT_DIR$/test.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jPdLNX9gEzKKC2FJ8VOaV5BfMQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f323038-b4a9-44cd-b1c4-62e65810124d" name="Default Changelist" comment="" />
+      <created>1603709604169</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603709604169</updated>
+      <workItem from="1603709606311" duration="283000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="578" y="258" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603709765507">
+      <screen x="0" y="25" width="1680" height="964" />
+    </state>
+    <state x="578" y="258" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.25.1680.964@0.25.1680.964" timestamp="1603709765507" />
+    <state x="409" y="128" width="1074" height="735" key="find.popup" timestamp="1603709887888">
+      <screen x="0" y="25" width="1680" height="964" />
+    </state>
+    <state x="409" y="128" width="1074" height="735" key="find.popup/0.25.1680.964@0.25.1680.964" timestamp="1603709887888" />
+  </component>
+</project>
